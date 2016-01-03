@@ -85,13 +85,13 @@ body {
         <div class="title"><img src="logo.png" width="128">Jekyll Writer</div>
     </div>
     <div class="download">
-        <a target="_blank" href="http://7xp44t.dl1.z0.glb.clouddn.com/Jekyll%20Writer-win32-x64.zip" title="Windows">
+        <a target="_blank" href="http://7xp44t.dl1.z0.glb.clouddn.com/Jekyll%20Writer-win32-x64.zip?v=0.1.3" title="Windows">
             <i class="fa fa-windows"></i>
         </a>
-        <a target="_blank" href="http://7xp44t.dl1.z0.glb.clouddn.com/Jekyll%20Writer-darwin-x64.zip" title="OS X">
+        <a target="_blank" href="http://7xp44t.dl1.z0.glb.clouddn.com/Jekyll%20Writer-darwin-x64.zip?v=0.1.3" title="OS X">
             <i class="fa fa-apple"></i>
         </a>
-        <a target="_blank" href="http://7xp44t.dl1.z0.glb.clouddn.com/Jekyll%20Writer-linux-x64.zip" title="Linux">
+        <a target="_blank" href="http://7xp44t.dl1.z0.glb.clouddn.com/Jekyll%20Writer-linux-x64.zip?v=0.1.3" title="Linux">
             <i class="fa fa-linux"></i>
         </a>
     </div>
